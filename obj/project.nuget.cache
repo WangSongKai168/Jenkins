@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4dh/ADG85TkSN7ZD0M/kmT6DD+NiXHYT7BmZrtU+sDhxE7yd9YnFaLK2ZS0e5mkTyUzDTiOCFDJeXc8Ocy0Tqw==",
+  "success": true,
+  "projectFilePath": "D:\\MyData\\Program\\DotNetCore\\JenkinsTestApplication\\JenkinsTestApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeffwang\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
